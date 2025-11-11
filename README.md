@@ -1,9 +1,8 @@
 # 📊 Tableau Project — Telecom Performance & Voice Revenue Analysis  
 
-![Performance_Analysis](images/Performance_Analysis.png)
-![Voicie_Revenue_Analysis](images/Voicie_Revenue_Analysis.png)
-
+# 📁 Performance Analysis
 ![Performance Analysis](Performance_Analysis.png)
+# 📁 Voicie revenue Analysis
 ![Voicie Revenue Analysis](Voicie_Revenue_Analysis.png)
 
 
@@ -22,7 +21,7 @@ The project demonstrates my ability to apply Tableau concepts such as **calculat
 
 ---
 
-## 🟦 Part 1: Performance Analysis
+## C Part 1: Performance Analysis
 
 ### 🎯 Objective
 To analyze telecom tariff performance on a **daily and weekly basis**, evaluate key performance indicators (KPIs), and present insights through dynamic dashboards.
