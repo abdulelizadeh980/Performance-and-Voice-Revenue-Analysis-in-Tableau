@@ -1,7 +1,7 @@
 # 📊 Tableau Project — Telecom Performance & Voice Revenue Analysis  
-![Performance Analysis].(Performance_Analysis.png)
+![Performance Analysis](images/Performance_Analysis.png)
 
-![Voicie Revenue Analysis].(Voicie_Revenue_Analysis.png)
+![Voicie Revenue Analysis](images/Voicie_Revenue_Analysis.png)
 
 ## 🧠 Overview
 This project presents a detailed **Tableau analysis of telecom performance and voice revenue trends**.  
